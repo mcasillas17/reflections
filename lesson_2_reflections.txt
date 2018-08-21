@@ -3,3 +3,6 @@ It creates a history of all changes that had been made to the repository and ini
 
 -How is the staging area different from the working directory and the repository? What value do you think it offers?
 It separates the files you are adding to a commit, so you can commit only files you are interested in updating.
+
+-How can you use the staging area to make sure you have one commit per logical change?
+Only add to the staging area the files that were modified
